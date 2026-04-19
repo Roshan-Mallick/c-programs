@@ -47,15 +47,40 @@ These helped me build a strong foundation in:
 
 ---
 
+## ✅ Completed: Medium Level
+
+I have completed the **medium level programs**, which include:
+
+* Prime numbers in a given range
+* Reverse number and palindrome check
+* Armstrong numbers in range
+* Frequency of digits in a number
+* Menu-driven calculator (using `switch-case`)
+* Largest and second largest number among N numbers
+* Fibonacci series up to N terms
+* Perfect number check (optimized approach)
+* Pattern printing using nested loops
+* Digital root calculation (optimized using modulo 9)
+
+### 🔧 Skills Gained
+
+* Nested loops and complex iteration
+* Multi-step problem solving
+* Mathematical optimizations (e.g., √n, modulo logic)
+* Array usage for counting
+* Structured program design
+* Writing cleaner and modular logic
+
+---
+
 ## 🎯 Current Focus
 
 I am currently working on:
 
-* Medium-level problems
-* Improving logic building
-* Writing cleaner and more efficient code
-
----
+* Hard-level problems
+* Optimization techniques
+* Memory concepts (pointers, arrays, strings)
+* Writing reusable functions
 
 ## 🧠 Goal
 
