@@ -2,14 +2,14 @@
 
 int main () {
 
-     int n , sum = 1;
+     int n , fact = 1;
      printf("Enter num : ");
      scanf ("%d",&n);
      for (int i=1;i<=n;i++){
-         sum = sum * i;
+         fact = fact * i;
      }
 
-     printf("%d\n",sum);
+     printf("%d\n",fact);
 
     return 0;
 }
